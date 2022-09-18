@@ -1,6 +1,5 @@
 # weather_app
-
-A new Flutter project.
+Clima is a weather application created using flutter and Rest Api 
 
 ## Getting Started
 
